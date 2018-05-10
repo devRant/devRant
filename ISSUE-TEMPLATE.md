@@ -1,6 +1,6 @@
-**Category:** 
+**Category: (API, Account, Web, App)**
 
-**Description of bug:**
+**Description of bug/feature:**
 
 **Steps to reproduce:**
 1. Step 1
