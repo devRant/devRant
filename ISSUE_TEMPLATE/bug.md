@@ -7,7 +7,7 @@
 
 
 <!-- Be as detailed as possible -->
-**Description of bug/feature:**
+**Description of bug:**
 
 
 <!-- Be as detailed as possible -->
