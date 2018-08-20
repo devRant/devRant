@@ -7,5 +7,12 @@ Please create issues for any bugs you find and/or feature requests you have for:
 - The devRant Swag Store
 
 # Submitting a bug report
-- Please provide clear steps to reproduce the issue, if the steps are known
-- Make sure to include what platform(s) and version of the app you are able to reproduce the bug on
+Before creating an issue, make sure you have read our contributing rules here:  
+[CONTRIBUTING.md](https://github.com/devRant/devRant/blob/master/CONTRIBUTING.md)
+
+Afterwards, please use one of the templates (click on the link):
+- [Bug Report](https://github.com/devRant/devRant/issues/new?template=bug.md)
+- [Feature Request](https://github.com/devRant/devRant/issues/new?template=feature.md)
+- [Question](https://github.com/devRant/devRant/issues/new?template=question.md)
+
+If you have a third-party client that doesn't support multiple issue templates, just copy the content of the file in the ISSUE_TEMPLATE/ directory.
