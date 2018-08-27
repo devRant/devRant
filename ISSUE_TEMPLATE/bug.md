@@ -6,11 +6,11 @@
 **Actual behaviour:**
 
 
-<!-- Be as detailed as possible -->
+<!-- Just a little description of the bug. How you found it, who could be affected by it, did you test it on other devices, etc. Be as detailed as possible! -->
 **Description of bug:**
 
 
-<!-- Be as detailed as possible -->
+<!-- How to reproduce the bug. Be as detailed as possible! It's hard to fix a bug when you don't know if you have fixed it ;) -->
 **Steps to reproduce:**
 1. ...
 2. ...
