@@ -6,5 +6,5 @@
 **Platform:** ...
 
 <!-- (Optional) Include mock-ups here if you have some. If you are requesting a new avatar item, maybe a little sketch? -->
-**How it could look like:**
+**What it might look like:**
 
