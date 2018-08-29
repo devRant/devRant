@@ -15,7 +15,6 @@ Please follow these rules when you are:
 ## Asking for new features
 - Use the corresponding issue template
 - Please provide a detailed description of the feature, how it works, alternatives, maybe even mock-ups?
-- Before submitting, check if there are any workarounds to this feature
 
 
 ## Asking Questions
