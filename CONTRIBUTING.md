@@ -20,7 +20,6 @@ Please follow these rules when you are:
 
 ## Asking Questions
 - Use the corresponding issue template
-- Please add "[Question]" to the title
 - Only ask questions relating to devRant
 
 
