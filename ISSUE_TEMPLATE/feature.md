@@ -2,7 +2,7 @@
 **Description of feature:**
 
 
-<!-- Either Web or Mobile or both -->
+<!-- Either Web, Mobile or Back-End (or multiple) -->
 **Platform:** ...
 
 <!-- (Optional) Include mock-ups here if you have some. If you are requesting a new avatar item, maybe a little sketch? -->
